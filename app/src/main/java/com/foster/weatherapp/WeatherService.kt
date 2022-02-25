@@ -9,6 +9,6 @@ interface WeatherService {
 
     fun getWeather(@Query("lon") lon : String = "34.110617446889165",
                    @Query("lat") lat : String = "-118.15427797408164",
-                   @Query("product") product : String = "two",
+                   @Query("product") product : String = "civil",
                    @Query("output") output : String = "json") : Call<List<WeatherInfo>>
 }

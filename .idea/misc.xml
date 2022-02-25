@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/activity_weather_detail.xml" value="0.30978260869565216" />
+        <entry key="app/src/main/res/layout/activity_weather_list.xml" value="0.23958333333333334" />
+        <entry key="app/src/main/res/layout/item_weather.xml" value="0.30978260869565216" />
+        <entry key="app/src/main/res/layout/item_weather_list.xml" value="0.30978260869565216" />
       </map>
     </option>
   </component>
